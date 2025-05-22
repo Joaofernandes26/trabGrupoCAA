@@ -42,7 +42,6 @@ Este projeto visa implementar um sistema completo de agendamento de consultas de
 - Página dedicada: `/agendamento`
 - Botão no menu principal: “Agendar Consulta”
 - Design responsivo (adaptado a dispositivos móveis)
-
 ## Fluxo do Utilizador
 1. O paciente acede ao site [psicosaude.net](https://psicosaude.net)
 2. Clica em “Agendar Consulta”
